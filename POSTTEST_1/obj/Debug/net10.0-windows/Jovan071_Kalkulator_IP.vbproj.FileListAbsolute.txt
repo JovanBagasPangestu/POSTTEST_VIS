@@ -1,0 +1,17 @@
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\bin\Debug\net10.0-windows\Jovan071_Kalkulator_IP.exe
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\bin\Debug\net10.0-windows\Jovan071_Kalkulator_IP.deps.json
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\bin\Debug\net10.0-windows\Jovan071_Kalkulator_IP.runtimeconfig.json
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\bin\Debug\net10.0-windows\Jovan071_Kalkulator_IP.dll
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\bin\Debug\net10.0-windows\Jovan071_Kalkulator_IP.pdb
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.Form1.resources
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.Resources.resources
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.vbproj.GenerateResource.cache
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.GeneratedMSBuildEditorConfig.editorconfig
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.AssemblyInfoInputs.cache
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.AssemblyInfo.vb
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.vbproj.CoreCompileInputs.cache
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.dll
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\refint\Jovan071_Kalkulator_IP.dll
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.pdb
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\Jovan071_Kalkulator_IP.genruntimeconfig.cache
+D:\A_PRAK_SEMS4\POSTTEST_VIS\POSTTEST_1\Jovan071_Kalkulator_IP\obj\Debug\net10.0-windows\ref\Jovan071_Kalkulator_IP.dll
